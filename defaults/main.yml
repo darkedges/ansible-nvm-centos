@@ -1,0 +1,8 @@
+---
+user:
+  name: vagrant
+  home: /home/vagrant
+nodejs:
+  version: v0.10.25
+nvm:
+  version: v0.24.0
